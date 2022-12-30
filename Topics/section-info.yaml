@@ -1,0 +1,18 @@
+content:
+- LocalTime
+- LocalDate
+- LocalDateTime
+- Comparing dates and time
+- Processing strings
+- Regexes in programs
+- Conditional statement
+- The List interface
+- Template method
+- Patterns and Matcher
+- Match results
+- Replacing characters
+- Declaring a method
+- Static members
+- Lambda expressions
+- Hiding and overriding
+- Anonymous classes
