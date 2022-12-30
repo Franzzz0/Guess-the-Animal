@@ -1,0 +1,63 @@
+{
+  "value" : "it is a mammal",
+  "left" : {
+    "value" : "it has got a big teeth",
+    "left" : {
+      "value" : "it can fly",
+      "left" : {
+        "value" : "it has legs",
+        "left" : {
+          "value" : "a snake"
+        },
+        "right" : {
+          "value" : "it can swim",
+          "left" : {
+            "value" : "a tortoise"
+          },
+          "right" : {
+            "value" : "a turtle"
+          }
+        }
+      },
+      "right" : {
+        "value" : "a parrot"
+      }
+    },
+    "right" : {
+      "value" : "a shark"
+    }
+  },
+  "right" : {
+    "value" : "it is living in the forest",
+    "left" : {
+      "value" : "it can climb trees",
+      "left" : {
+        "value" : "it is beautiful",
+        "left" : {
+          "value" : "a dog"
+        },
+        "right" : {
+          "value" : "a malutka"
+        }
+      },
+      "right" : {
+        "value" : "a cat"
+      }
+    },
+    "right" : {
+      "value" : "it has a long bushy tail",
+      "left" : {
+        "value" : "it is a shy animal",
+        "left" : {
+          "value" : "a wolf"
+        },
+        "right" : {
+          "value" : "a hare"
+        }
+      },
+      "right" : {
+        "value" : "a fox"
+      }
+    }
+  }
+}
